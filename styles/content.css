@@ -1,0 +1,64 @@
+ .headerpic {
+  background-image: url(../images/afrofuturism.gif);
+  background-color: #36283C;
+  background-repeat: no-repeat;
+  background-position: center;
+float: left;
+height: 200px;
+  width: 100%;
+  clear: both;
+}
+
+@media (min-width: 768px) {
+  .sidebar-nav .navbar .navbar-collapse {
+    padding: 0;
+    max-height: none;
+  }
+  .sidebar-nav .navbar ul {
+    float: none;
+    display: block;
+  }
+  .sidebar-nav .navbar li {
+    float: none;
+    display: block;
+  }
+  .sidebar-nav .navbar li a {
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+
+  #success_message{
+     display: block;
+   }
+
+  .li-contact {
+  background-color: #e7e7e7;
+  }
+
+
+html {
+  font-family: -apple-system, system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+.col-1 {
+float:left;
+width: 30%;
+}
+.col-2 {
+  width: 70%;
+float:right;
+height: 100%;
+    padding: 10px 20px;
+    font-size: 2em;
+}
+
+img {
+  padding: 4px 4px 4px 4px;
+}
+
+footer {
+clear: both;
+     text-align: center;
+  border: 2px solid #40D1BA;
+  background-color: #36283C;
+  color: white;
+}
