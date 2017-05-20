@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>r
+    <string name="fa_icon_shield">&#xf132;</string>
+    <string name="fa_icon_ambulance">&#xf0f9;</string>
+    <string name="fa_icon_cog">&#xf013;</string>
+    <string name="fa_icon_fire">&#xf06d;</string>
+</resources>
