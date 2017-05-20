@@ -1,4 +1,4 @@
-package com.example.a502710129.distressbeacon;
+package com.example.a502710129.distress_beacon;
 
 import org.junit.Test;
 

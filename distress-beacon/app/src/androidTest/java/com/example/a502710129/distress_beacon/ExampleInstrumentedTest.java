@@ -1,4 +1,4 @@
-package com.example.a502710129.distressbeacon;
+package com.example.a502710129.distress_beacon;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.a502710129.distressbeacon", appContext.getPackageName());
+        assertEquals("com.example.a502710129.distress_beacon", appContext.getPackageName());
     }
 }
