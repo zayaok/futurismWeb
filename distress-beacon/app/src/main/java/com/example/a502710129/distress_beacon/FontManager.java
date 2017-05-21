@@ -16,6 +16,7 @@ public class FontManager {
     public static Typeface getTypeface(Context context, String font) {
         return Typeface.createFromAsset(context.getAssets(), font);
     }
+    //To enable icons
     public static void markAsIconContainer(View v, Typeface typeface) {
         if (v instanceof ViewGroup) {
             ViewGroup vg = (ViewGroup) v;
